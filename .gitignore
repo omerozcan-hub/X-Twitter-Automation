@@ -1,2 +1,6 @@
 # created by virtualenv automatically
-
+__pycache__/
+*.pyc
+venv/
+Lib/site-packages/
+Lib/
